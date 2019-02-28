@@ -1,0 +1,24 @@
+h1{
+	color: red;
+}
+p{
+	color: gray;
+}
+body{
+	background-color: lightblue;
+}
+h1,h2,p,dl,form{
+	text-align: center;
+}
+h1 {
+  text-shadow: 2px 1px black;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+dd{
+	color: gray;
+}
+
